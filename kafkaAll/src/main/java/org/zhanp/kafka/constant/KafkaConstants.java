@@ -31,6 +31,8 @@ public class KafkaConstants {
         }
 
         public static String TEST_TOPIC = "testTopic";
+
+        public static String O2_TEST_TOPIC = "O2_TEST_TOPIC";
     }
 
 
@@ -43,6 +45,8 @@ public class KafkaConstants {
         }
 
         public static String TEST_CONSUMER_GROUP = "TEST_CONSUMER_GROUP_2";
+
+        public static String O2_TEST_CONSUMER_GROUP = "O2_TEST_CONSUMER_GROUP_2";
     }
 
 }
